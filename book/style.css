@@ -1,0 +1,49 @@
+body{margin:8px auto;max-width:32em;padding:0 8px;}
+pre{overflow-x:auto;}
+div p{text-indent:2em;margin-top:0;margin-bottom:0}
+div p:first-child{text-indent:0;}
+a, a:link, a:visited, a:hover, a:active{color:inherit;text-decoration:underline}
+img{max-width:30em;}
+.serif {font-familt:serif}
+.bold  {font-weight:bold}
+.mono  {font-family:monospace}
+.serif {font-familt:serif}
+.xsmall{font-size:x-small}
+.small {font-size:small}
+.large {font-size:large}
+.xlarge{font-size:x-large}
+.xlarge{font-size:x-large}
+.xsmall{font-size:x-small}
+.center{text-align:center}
+.left  {text-align:left}
+.right {text-align:right}
+.strike{text-decoration:line-through}
+.under {text-decoration:underline}
+.sub   {vertical-align:sub}
+.sup   {vertical-align:super}
+
+body{
+background-color:#282828;
+color:#e6e6e6;
+line-height:1.4;
+font-family:sans-serif;
+}
+.blue  {color:#0040ff}
+.olive {color:#336600}
+.indigo{color:#3f33cc}
+.maroon{color:#800000}
+.mint  {color:#99cc99}
+.black {color:black}
+.silver{color:#c0c0c0}
+.pink  {color:#f5070b}
+.blaze {color:#ff6600}
+.peach {color:#ff9999}
+.green {color:green}
+.grey  {color:grey}
+.orange{color:orange}
+.purple{color:purple}
+.red   {color:red}
+.trans {color:transparent}
+.violet{color:violet}
+.white {color:white}
+.yellow{color:yellow}
